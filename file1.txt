@@ -1,1 +1,2 @@
 hello git
+Gitstudy commit GNU nano file1.txt 
